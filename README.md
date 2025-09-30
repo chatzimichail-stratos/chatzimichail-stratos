@@ -1,4 +1,4 @@
-# 👋🏼 Hello, I'm Xaralampos Makridhs
+# Hi 👋, I'm Stratos
 
 🎓 **Student in Applied Informatics & Information Systems**  
 📍 **University of Macedonia**, Thessaloniki  
