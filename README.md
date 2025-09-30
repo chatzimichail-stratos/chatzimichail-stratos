@@ -16,14 +16,6 @@ Also comfortable with: MySQL for databases, and Blender for 3D modeling.
 
 ---
 
-## 🎨 UI Tools
-
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Color%20Generator-blue?logo=tailwindcss&logoColor=white)](https://uicolors.app/create)
-[![Remix Icon](https://img.shields.io/badge/Remix%20Icon-Open%20Source%20Icons-lightgrey?logo=remixicon&logoColor=black)](https://remixicon.com)
-[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Browse%20Fonts-4285F4?logo=googlefonts&logoColor=white)](https://fonts.google.com)
-
----
-
 ## 🌐 Connect with me
 
 <a href="https://www.instagram.com/xatzhs.s/" target="blank">
