@@ -10,7 +10,9 @@
 
 ## 🚀 My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,javascript,php,mysql,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,javascript,php)](https://skillicons.dev)
+
+Also comfortable with: MySQL for databases, and Blender for 3D modeling.
 
 ---
 
