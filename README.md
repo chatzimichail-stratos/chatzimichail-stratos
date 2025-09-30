@@ -30,7 +30,21 @@
 
 ## 🌐 Connect with me
 
-[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,twitter,gmail,discord)](https://skillicons.dev)
+<a href="https://www.instagram.com/xatzhs.s/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+<a href="https://www.linkedin.com/in/stratos-chatzimichail-2352a6331/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://x.com/StratosXatzhs" target="blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+</a>
+<a href="https://mail.google.com/mail/?view=cm&to=chatzimichailstratos@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+<a href="https://discord.com/users/566942684552495105" target="blank">
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+</a>
 
 ---
 
