@@ -44,6 +44,6 @@ Also comfortable with: MySQL for databases, and Blender for 3D modeling.
 
 ---
 
-## 🎧 Enjoy while coding
+## 📊 Stats
 
-[![Spotify](https://img.shields.io/badge/Spotify-Playlist-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/56YzMTJxRBPqICLkHnaEnK?si=0733db6655a14769)
+![Stratos's GitHub stats](https://github-readme-stats.vercel.app/api?username=chatzimichail-stratos&show_icons=true&theme=tokyonight)
